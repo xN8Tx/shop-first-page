@@ -1,4 +1,4 @@
-## ###Technology
+###Technology
 
 1. JavaScript
 2. HTML, CSS
