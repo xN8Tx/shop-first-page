@@ -1,0 +1,26 @@
+:root {
+  /* COLORS */
+  --colors-white: #fbfbfb;
+  --colors-black: #282828;
+  --colors-gray: #525252;
+  --colors-blue: #5c71b2;
+  --colors-accent: #2a5cf6;
+
+  /* GRADIENTS */
+  --gradient-blue: linear-gradient(
+    23deg,
+    #2a5cf6 0%,
+    #2a5cf6 0.01%,
+    #7191f4 100%
+  );
+  --gradient--accent: var(
+    --pr-gr,
+    linear-gradient(17deg, #9e0caa 0%, #242aff 42.32%, #23fbe1 100%)
+  );
+
+  /* MARGINS */
+  --margin-xs: 6px;
+  --margin-s: 12px;
+  --margin-m: 16px;
+  --margin-l: 24px;
+}
