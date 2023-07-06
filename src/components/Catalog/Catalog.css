@@ -118,8 +118,6 @@
 }
 
 .catalog__item_height {
-  width: 250px;
-
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
